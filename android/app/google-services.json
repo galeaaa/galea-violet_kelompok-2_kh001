@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "350531867325",
+    "project_id": "pemmob-8c0a2",
+    "storage_bucket": "pemmob-8c0a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350531867325:android:b79649ab01453137dfddd4",
+        "android_client_info": {
+          "package_name": "com.esaunggul.galeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeMAd933dMxu6v_7sCzjjk0NuK6Sh7XBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350531867325:android:9c816b4784625bc2dfddd4",
+        "android_client_info": {
+          "package_name": "com.example.praktikum_mobile_kh001"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeMAd933dMxu6v_7sCzjjk0NuK6Sh7XBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350531867325:android:ec7eab4a632daaf7dfddd4",
+        "android_client_info": {
+          "package_name": "com.example.praktikumsesi4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeMAd933dMxu6v_7sCzjjk0NuK6Sh7XBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
